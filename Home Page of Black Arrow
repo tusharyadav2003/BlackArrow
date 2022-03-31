@@ -1,0 +1,148 @@
+<html>
+<head>
+	<title>Black Arrow</title>
+	<link rel="stylesheet" href="../styles.css">
+	<style>
+		
+	.auto-style1 {
+		text-align: center;
+	}
+		
+	.auto-style4 {
+		font-size: medium;
+	}
+		
+	.auto-style5 {
+		font-size: medium;
+		font-weight: normal;
+	}
+	.auto-style6 {
+		text-align: left;
+	}
+		
+	.auto-style7 {
+		text-align: center;
+		color: #FFFFFF;
+	}
+	.auto-style8 {
+		text-align: center;
+		color: #F0FFFF;
+	}
+	.auto-style9 {
+		font-size: xx-large;
+	}
+		
+	</style>
+</head>
+<body>
+	<div class="auto-style6">
+	
+			<img src="Logo/logo.png" ></img>
+			<a href="login.html">LOGIN</a>&nbsp;&nbsp;
+			<a href="report.html"> REPORT A CRIME</a>&nbsp;&nbsp;
+			<a href="general.html">GENERAL AWARENESS</a>&nbsp;&nbsp;
+			<a href="contact.html">CONTACT US</a>&nbsp;
+            <a href="photo.html">PHOTO GALLERY</a>&nbsp;&nbsp;
+            <a href="rti.html">RTI,2005</a>&nbsp;
+			<a class="active" href="#">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div>
+<hr size="4px" color="#11e16e"style="margin:0px"/>
+	<div class="bannerimg">
+		<div style="background-image: url('crime.jpg')">
+			<h1 class="auto-style7" >Are you a Victim of CRIME?</h1>
+			<h2 class="auto-style7" >Don't hesistate</h2>
+			<h2 class="auto-style8">Report the Crime Now!</h2>
+		
+		<p class="auto-style1"><br></p>
+	<p class="auto-style1">&nbsp;</p>
+	<p class="auto-style1">&nbsp;</p>
+	</div>
+	</div>
+				<div class="bannerimg">
+
+			
+<div style="background-image:url('indian3.jpg');background-repeat:no-repeat;padding:15px;width:11500px;height:300px;border:1px solid black;">
+				<h1 style="background-position: center; size:15px; background-image: url('indian4.jpg'); background-repeat: no-repeat; background-attachment: fixed;" class="auto-style5">&nbsp;</h1>
+				<p style="size:15px" class="auto-style4">Document Required to make a Complaint</p>
+				<p style="size:15px" class="auto-style4">Lodge Online Complaint</p>
+				<p style="size:15px" class="auto-style4">Nearest Police Station</p>
+				<p style="size:15px" class="auto-style4">District Cyber Cells</p>
+				</div>
+				</div>
+			</div>
+			<!--<div class="Document">
+				<div class="mealImage">
+					<img src="C:\Users\hp\Desktop\BLACK ARROW.jpg" height="200px" width="300px">
+				</div>-->
+			</div>
+		</div>
+	<center style="background-color:azure;margin:0px">
+		<table>
+			<tr>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+			</tr>
+			</table>
+		<span class="auto-style9">Cases Recorded</span><br>
+	</center>
+	<footer>
+			<div class="foot">
+				<div class="fcontent">
+					<div class="f">
+						<div class="ff">
+							</img>
+						&nbsp;</div>
+						<div class="ff">
+						</div>
+						
+					</div>
+					<br>
+					<div class="f1">
+						<div class="f2">
+							<nav>
+								<a href="catalog.html"><p>Catalog</p></a>
+								<a href="ContactUs.html">Contact Us</a>
+								<a href="photo.html"><p>Photo Gallery</p></a>
+							</nav>
+						</div>
+						<div class="f2">
+							<nav>
+								<a href="#"><p>Privacy Policy</p></a>
+								<a href="#"><p>Terms and Condition</p>
+							<a href="#"><p>Follow us on Facebook</p>
+								<a href="#"><p>Follow us on Instagram</p>
+								<a href="#"><p>Terms and Condition</p>
+								
+								
+							</nav>
+						</div>
+						<div style="width:250px;text-align: right;">
+							<!--<h4 style="margin:15px 0px 0px;">SOCIAL LINKS</h4>-->
+								<div class="f2fstore">
+									<a href="#" class="f2ficon">
+									<img src="facebook.png" height="65" width="102"></img></a>
+									<a href="#" class="f2ficon">
+									<img src="twitter.png" height="65" width="102"></img></a>
+									<a href="#" class="f2ficon">
+									<img src="instagram.jfif" height="65" width="102"></img></a>
+									<a href="#" class="f2ficon">
+									<img src="linkedin.jpg" height="65" width="102"></img></a>
+
+								</div>
+								<div class="f2fstore">
+									<a href="#"><img src="Images\app store.png" width="137px" height="40px"></img>
+									</a>
+								</div>
+								<div class="f2fstore">
+									<a href="#"><img src="Images\play store.png"width="137px" height="40px"></img>
+									</a>
+								</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+</body>
+</html>
